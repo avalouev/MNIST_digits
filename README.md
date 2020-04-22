@@ -3,7 +3,7 @@
 Tools and scripts to classify and evaluate classification performance on MNIST handwritten digits dataset.
 
 ## Random_Forest_on_MNIST_Digits.ipynb
-Analysis of MNIST digits using random forest (sklearn)
+Python notebook for analysis of MNIST digits using random forest (sklearn)
 
 
 
