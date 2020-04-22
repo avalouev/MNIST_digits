@@ -4,3 +4,6 @@ Tools and scripts to classify and evaluate classification performance on MNIST h
 
 ## Random_Forest_on_MNIST_Digits.ipynb
 Python notebook for analysis of MNIST digits using random forest (sklearn)
+
+## CNN_MNIST_Digits.ipynb
+Python notebook for analysis of MNIST digits using moderately deep CNN (3 conv layers)
